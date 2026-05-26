@@ -1,0 +1,62 @@
+Nr de la promoción,Año de comienzo,Año de fin,Tipo,Modalidad,Nombre,Nombre de la mujer referente,pais_principal,campo_principal,periodo_historico,anio_nacimiento,anio_muerte,logros_clave
+1,2016,2017,PW,Full-time,Ada,Ada Lovelace,,,,,,
+2,2017,2017,PW,Full-time,Borg,Anita Borg,Estados Unidos,informática y activismo tecnológico,era de la informática moderna,,,"Desarrolló el primer compilador, luchó por la inclusión de las mujeres en la industria tecnológica."
+3,2017,2018,PW,Full-time,Clarke,Joan Clarke,,,,,,
+4,2018,2018,PW,Full-time,Dorcas,Dorcas Muthoni,Kenia,biología,era moderna,1978,,Investigadora en genética y bioingenieria. Desarrolló tecnologias para la producción de alimentos y agua.
+5,2018,2019,PW,Full-time,Easley,Annie Easley,Estados Unidos,ingeniería aeroespacial y matemáticas,siglo XX,1934,,Contribuyó al desarrollo de cohetes y misiones espaciales. Pionera en el uso de computadoras para simulaciones aerodinámicas.
+6,2019,2019,PW,Full-time,Fairfax,Mary Fairfax,,,,,,
+7,2019,2019,PW,Full-time,Grace,Grace Hopper,,,,,,
+8,2019,2020,PW,Full-time,Hamilton,Margaret Hamilton,,,,,,
+9,2020,2020,PW,Full-time,Idelisa,Idelisa Bonnelly,Estados Unidos,informática,siglo XXI,,,Pionera en tecnología de código abierto. Desarrolló software para mejorar la transparencia gubernamental.
+10,2020,2020,PW,Full-time,Jemison,Mae Jemison,Estados Unidos,biología y astronautica,era espacial,1956,,Fue la primera mujer en viajar al espacio. Fue misionada en el Space Shuttle Endeavour
+11,2020,2020,PW,Full-time,Kizzy,Kizzy Colbert,,,,,,
+12,2020,2021,PW,Full-time,Lee,Lee Woods,Estados Unidos,informática,siglo XX,,,Pionera en programación. Desarrolló el primer compilador.
+13,2021,2021,PW,Full-time,Mileva,Mileva Maric,Serbia,física y matemáticas,siglo XIX y XX,1875,,Desarrolló teorías sobre la relatividad. Matrimoniada con Albert Einstein.
+14,2021,2021,PW,Full-time,Nerea,Nerea Luis,,,,,,
+15,2021,2022,PW,Full-time,Olguin,Irma Olguin,Estados Unidos,matemáticas,siglo XXI,,,Desarrolló teorías y modelos matemáticos para la física de partículas. Investigadora destacada en el campo de la física teórica.
+16,2022,2022,PW,Full-time,Paz,Paz Gimeno,Estados Unidos,activismo tecnológico,era espacial,,1986,Activista y defensora de la igualdad de género en la industria espacial. Fue una voz clave para promover la diversidad e inclusión.
+17,2022,2022,DA,Full-time,Armada,Elena Armada,,,,,,
+18,2022,2022,PW,Full-time,Quirós,Jimena Quirós,España,informática,siglo XXI,,,"Desarrolló un sistema de gestión empresarial. Es autora del libro ""La gestión empresarial en la era digital"""
+19,2022,2022,DA,Full-time,Bouman,Katie Bouman,Estados Unidos,astronomía,era espacial,,,Desarrolló la cámara de imagería del Telescopio Espacial Hubble. Contribuyó al proyecto de captura de imágenes del disco gigante en el oeste de Canadá.
+20,2022,2022,PW,Full-time,Radia,Radia Perlman,Estados Unidos,informática,siglo XX,1948,2019,"Pionera en la infraestructura de red, desarrolló el protocolo de enrutamiento de OSPF y recibió numerosos premios incluyendo un Turing Award."
+21,2022,2023,DA,Full-time,Carol,Carol Shaw,Estados Unidos,informática,siglo XX,1935,,"Pionera en programación, desarrolló las primeras adivinanzas de crucigrama."
+22,2023,2023,PW,Full-time,Salas,Margarita Salas,España,informática,era espacial,,,Pionera en programación. Desarrolló el primer compilador. Lideró la misión espacial Venera 7.
+23,2023,2023,DA,Full-time,Dorothy,Dorothy Vaughan,Estados Unidos,matemáticas e informática,siglo XX,1910,,Desarrolló el primer compilador de código por computadora para la NASA. Fue pionera en la igualdad de género en la NASA.
+24,2023,2023,PW,Full-time,Trotula,Trótula de Salerno,,,,,,
+25,2023,2023,DA,Full-time,Evelyn,Evelyn Berezin,Unión Soviética,informática,era soviética,,1979,Desarrolló algoritmos para procesamiento de señales y sistemas digitales.
+26,2023,2023,PW,Full-time,Ursula,Ursula Martin,Estados Unidos,informática,siglo XX,,1992,Pionera en programación. Desarrolló el primer compilador.
+27,2023,2024,DA,Full-time,Farzana,Farzana Noorzay,Maldivas,informática y biología,era espacial,,,Pionera en tecnología espacial de la región. Estudió biología y se unió al programa de astronautas de NASA.
+28,2023,2024,PW,Part-time,Alice,Alice Augusta Ball,,,,,,
+29,2023,2024,PW,Full-time,Valentina,Valentina Tereshkova,Unión Soviética,astronomía y activismo tecnológico,era espacial,1937,,Primera mujer en la historia de la URSS en orbitar la Tierra. Fue cosmonauta y pionera en el activismo tecnológico.
+30,2024,2024,PW,Full-time,Woods,Mary Lee Woods,Estados Unidos,activismo tecnológico,era espacial,,,Activista y defensora de los derechos de las mujeres en la industria de la tecnología.
+31,2024,2024,DA,Full-time,Germain,Sophie Germain,,,,,,
+32,2024,2024,DA,Part-time,Angela,Ángela Ruiz Robles,México,informática,era industrial,1867,,Desarrolló el primer compilador de código máquina en español.
+33,2024,2024,PW,Full-time,Xia,Xia Peisu,,,,,,
+34,2024,2024,DA,Full-time,Hedy,Hedy Lamarr,,,,,,
+35,2024,2024,PW,Part-time,Betty,Betty Snyder Holberton,Estados Unidos,informática,siglo XX,1906,,Pionera en programación. Desarrolló el primer compilador.
+36,2024,2024,DA,Part-time,Blasco,Maria Blasco,España,biología,siglo XXI,,,Descubrió el viroid y desarrolló técnicas para su estudio.
+37,2024,2024,PW,Full-time,Yallow,Rosalín Yalow,Estados Unidos,física,era nuclear,1921,,"Desarrolló la radioimunoeconomía, una técnica de medición inmunológica que revolucionó el diagnóstico de enfermedades como la diabetes y la hipertensión."
+38,2024,2024,DA,Full-time,Ines,Inés Vazquez,,,,,,
+39,2024,2024,PW,Full-time,Zeynep,Zeynep Tufekci,,,,,,
+40,2024,2024,DA,Full-time,Julia,Julia Robinson,Estados Unidos,matemáticas,siglo XX,1919,,"Desarrolló el teorema de Robbins, contribuyó al campo de la teoría de los números y trabajó en la investigación de la teoría de la información"
+41,2024,2024,DA,Full-time,Kimberly,Kimberly Bryant,Estados Unidos,ciencias de la computación y tecnología,era digital contemporánea,,,"Fundadora del Girl Code, una organización que busca aumentar el número de mujeres en las carreras de tecnología."
+42,2024,2024,PW,Full-time,Alaina,Alaina Percival,,matemáticas,,1945,,Desarrolló la teoría de los números algebraicos. Contribuyó al desarrollo del álgebra computable.
+43,2024,2025,DA,Part-time,Carmen,Carmen Magallon,,informática,,,,
+44,2024,2025,PW,Part-time,Clara,Clara Grima,,,,,,
+45,2024,2025,DA,Part-time,Daphne,Daphne Koller,,,,,,
+46,2024,2025,PW,Full-time,Brenda,Brenda Milner,Estados Unidos,psicología computacional,era informática,,,Trabajó en el desarrollo de algoritmos y modelos de procesamiento de información. Fue pionera en la aplicación de la psicología a la inteligencia artificial.
+47,2024,2025,DA,Full-time,Laura,Laura Bassi,Italia,física y matemáticas,siglo XVIII,1711,,Una de las primeras mujeres doctoradas en filosofía y física. Se destacó por sus investigaciones sobre el comportamiento del aire y la atmósfera.
+48,2025,2025,PW,Full-time,Sara,Sara García Alonso,España,informática,era digital,,,
+49,2025,2025,DA,Full-time,Mary,Mary Jackson,Estados Unidos,ingeniería aeroespacial,era espacial,,2005,Desarrolló planes de vuelo para la NASA. Se convirtió en ingeniera principal del Programa X-15.
+50,2025,2025,DA,Part-time,Katherine,Katherine Johnson,Estados Unidos,matemáticas y física,era espacial,,,Calculó trayectorias de satélites. Fue crucial en la misión Apollo 11.
+51,2025,2025,PW,Part-time,Hack,Margherita Hack,,,,,,
+52,2025,2025,DA,Full-time,Julia,Júlia Salander,Estados Unidos,informática,siglo XXI,,,Pionera en la programación y el análisis de datos. Desarrolló modelos avanzados de aprendizaje automático.
+53,2025,2025,PW,Full-time,Yo,Futura Yo,,,,2023,,
+54,2025,2025,DA,Part-time,Paola,Paola Villareal,,,,,,
+55,2025,2025,PW,Part-time,Reshma,Reshma Saujani,Estados Unidos,activismo tecnológico,era moderna,,,Lideró el movement #GirlBoss. Fundadora de Girls Who Code.
+56,2025,2025,DA,Full-time,Hildegarda,Hildegarda de Bingen,Francia,medicina y música,siglo XII,,1179,"Escribió la primera obra de música litúrgica. Fue monja, astrónoma y médica"
+57,2025,2025,DA,Full-time,Joy,Joy Buolamwini,Estados Unidos,activismo tecnológico,siglo XXI,,,Desafió la discriminación de las mascotas en los sistemas de reconocimiento facial. Defensora de la diversidad e inclusión en el desarrollo tecnológico.
+58,2025,2025,PW,Full-time,Rosies,Top Secret Rosies,Estados Unidos,informática,segunda mitad del siglo XX,,,"Desarrollaron software y tecnologías para la Navy, trabajando en secreto. Desempeñaron un papel crucial en el desarrollo de computadoras y algoritmos durante la Segunda Guerra Mundial."
+59,2025,2025,DA,Part-time,Conchita,Conchita Díaz,México,informática,era computacional,,2000,"Desarrolló el primer compilador de lenguaje ensamblador para Intel, que ganó un Premio Nacional de Tecnología"
+60,2025,2026,DA,Full-time,Nuria,Nuria Oliver,España,activismo tecnológico,era espacial,,,Pionera en el movimiento de activistas tecnológicos. Luchó por la igualdad de género en el ámbito espacial.
+61,2025,2026,PW,Part-time,Khalia,Khalia Braswell,,,,,,
