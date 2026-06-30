@@ -1,0 +1,2 @@
+- eliminado columna descripcion
+- gestionado nulos de reference unit
